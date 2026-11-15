@@ -25,7 +25,7 @@
                 <mxCell id="region" parent="1" style="swimlane;html=1;rounded=1;startSize=34;horizontal=1;fillColor=#F7F7F7;strokeColor=#232F3E;strokeWidth=2;fontStyle=1;fontSize=16;" value="AWS Region  ap-northeast-1 (Tokyo)" vertex="1">
                     <mxGeometry height="1010" width="1420" x="300" y="210" as="geometry"/>
                 </mxCell>
-                <mxCell id="pvpc" parent="region" style="swimlane;html=1;rounded=1;startSize=48;horizontal=1;fillColor=#FFF4E8;strokeColor=#D86613;strokeWidth=2;fontStyle=1;fontSize=14;" value="Production VPC  10.20.0.0/16&lt;br&gt;production Lifecycle Boundary" vertex="1">
+                <mxCell id="pvpc" parent="region" style="swimlane;html=1;rounded=1;startSize=48;horizontal=1;fillColor=#FFF4E8;strokeColor=#D86613;strokeWidth=2;fontStyle=1;fontSize=14;" value="Production VPC  10.200.0.0/16&lt;br&gt;production Lifecycle Boundary" vertex="1">
                     <mxGeometry height="765" width="1260" x="80" y="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="paza" parent="pvpc" style="swimlane;html=1;rounded=1;startSize=30;horizontal=1;fillColor=none;swimlaneFillColor=none;strokeColor=#7D8998;dashed=1;" value="Availability Zone A" vertex="1">
